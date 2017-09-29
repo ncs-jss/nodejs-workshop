@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncs-jss/nodejs-workshop.git"
+  },
+  "keywords": [],
+  "author": "Aditya Agarwal <adityaa803@gmail.com> (http://adi.surge.sh/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncs-jss/nodejs-workshop/issues"
+  },
+  "homepage": "https://github.com/ncs-jss/nodejs-workshop#readme",
+  "dependencies": {
+    "express": "^4.16.0"
+  }
+}
